@@ -46,12 +46,12 @@
   border-radius: 10px;
   width: 30vw;
   padding-inline: 20px;
+  overflow: auto;
 }
 
 .chatContainer {
   position: relative;
   height: 100%;
-  overflow: auto;
 }
 
 .chattingArea {
