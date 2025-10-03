@@ -64,7 +64,7 @@
   padding-inline: 20px;
   text-align: center;
 }
-/*.meetContainer {
+.meetContainer {
   display: flex;
   padding-inline: 20px;
   height: 80vh;
@@ -87,4 +87,4 @@
   width: 30vw;
   height: auto;
   border-radius: 20px;
-} */
+}
