@@ -14,6 +14,7 @@ import ChatIcon from "@mui/icons-material/Chat";
 import { Buffer } from "buffer";
 window.Buffer = Buffer;
 import { io } from "socket.io-client";
+import server from "../../environment";
 
 const server_url = server;
 
