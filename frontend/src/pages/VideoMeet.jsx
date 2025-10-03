@@ -15,7 +15,7 @@ import { Buffer } from "buffer";
 window.Buffer = Buffer;
 import { io } from "socket.io-client";
 
-const server_url = "http://localhost:8000";
+const server_url = server;
 
 var connections = {};
 
